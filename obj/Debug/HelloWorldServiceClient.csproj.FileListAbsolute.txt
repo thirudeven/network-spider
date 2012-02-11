@@ -1,2 +1,0 @@
-D:\Documents and Settings\sghanwh\My Documents\Visual Studio 2010\Projects\client-remote.net\bin\Debug\client.exe.config
-D:\Documents and Settings\sghanwh\My Documents\Visual Studio 2010\Projects\client-remote.net\obj\Debug\ResolveAssemblyReference.cache
